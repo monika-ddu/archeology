@@ -1,5 +1,7 @@
 ---
 timeline:
+  - '9:00 AM'
+  - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -15,12 +17,17 @@ timeline:
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
+  - '5:30 PM'
 schedule:
   - name: Monday
     events:
       - name: Lecture
         start: 10:00 AM
-        end: 11:00 AM
+        end: 11:30 AM
+        location: Anthropology Lab
+      - name: Section
+        start: 11:30 AM
+        end: 12:30 PM
         location: Anthropology Lab
       - name: Office Hours
         start: 12:30 PM
@@ -31,30 +38,27 @@ schedule:
     events:
       - name: Lecture
         start: 10:00 AM
-        end: 11:00 AM
+        end: 11:30 AM
+        location: Anthropology Lab
+      - name: Section
+        start: 11:30 AM
+        end: 12:30 PM
         location: Anthropology Lab
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
         location: Anthropology Lab
   - name: Thursday
+  - name: Friday
     events:
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: Anthropology Lab
-   - name: Friday
-     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 11:00 AM
+        start: 9:30 AM
+        end: 10:30 AM
         location: Anthropology Lab
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+      - name: Section
+        start: 11:30 AM
+        end: 12:30 PM
         location: Anthropology Lab
-   - name: Saturday
-     events:
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
