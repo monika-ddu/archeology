@@ -43,13 +43,8 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Anthropology Lab
-    events:
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: Anthropology Lab
-  - name: Friday
-    events:
+   - name: Friday
+     events:
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
