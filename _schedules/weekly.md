@@ -27,7 +27,6 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
-      events:
       - name: Lecture
         start: 1:45 PM
         end: 2:30 PM
