@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
-week: 0
-date: 2019-04-01
+title: Assignments Announcement
+week: 5
+date: 2023-05-01
 ---
 
-Hello world!
+Assignemnt 1 is due on May 18, 2023.
 {: .fs-5 }

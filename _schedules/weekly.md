@@ -17,41 +17,34 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 11:30 AM
+        start: 1:45 PM
+        end: 2:30 PM
         location: Anthropology Lab
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 12:45 PM
+        end: 1:15 PM
         location: Anthropology Lab
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 11:30 AM
-        location: Anthropology Lab
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
+        start: 1:45 PM
+        end: 2:30 PM
         location: Anthropology Lab
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 12:45 PM
+        end: 1:15 PM
         location: Anthropology Lab
   - name: Thursday
   - name: Friday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: Anthropology Lab
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
+        start: 1:45 PM
+        end: 2:30 PM
         location: Anthropology Lab
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 12:45 PM
+        end: 1:15 PM
         location: Anthropology Lab
+   - name: Saturday
 ---
