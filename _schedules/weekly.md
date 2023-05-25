@@ -27,6 +27,7 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
+      events:
       - name: Lecture
         start: 1:45 PM
         end: 2:30 PM
@@ -46,5 +47,5 @@ schedule:
         start: 12:45 PM
         end: 1:15 PM
         location: Anthropology Lab
-   - name: Saturday
+  - name: Saturday
 ---
