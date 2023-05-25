@@ -13,9 +13,9 @@ seo:
 Introductory course of archeology. We will go through some of the basics of archeology and introduce the sites related to early humans settlements. Some of the sites where early men started to live in India will also be discussed. The course will help you understand the basics of archeology and its application in understanding the human evolution and developements through archeological remains, such as fossils, tools, implements, bones etc.
 
 - [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- [course calendar](calendar.md),
+- [staff](staff.md) page,
+- weekly [schedule](schedule.md).
 
 Following are the course objectives
 

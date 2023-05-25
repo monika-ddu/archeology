@@ -43,4 +43,5 @@ There will be 45 mins lecture, thrice a week. And office hours for any doubts. L
 - S. Settar & Korisettar (eds). Indian Archaeology in Retrospect, (Manohar Publishers & Distributors, Delhi) Vol. I, Pre-History: Archaeology of South Asia, Vol. II, Proto-History:Archaeology of the Harappan Civilization
 - Recent Studies in Indian Archaeology ed., K. Paddayya (Munshiram Manoharlal, Delhi,ICHR Monograph Series - 6),
 - Possehl, GL 1993 Harappan Civilization: A recent perspective 2nd revised edition. Delhi: Oxford & IBH and the American Institute of Indian Studies: 595 pp., edited 
-- D.K Bhattacharya (1991) Outlines of Indian Prehistory. Palaka Prakashan, N. Delhi. (Also available in Hindi).
+- D.K Bhattacharya (1991) Outlines of Indian Prehistory. Palaka Prakashan, N. Delhi.
+डी.के. भट्टाचार्य (2022) : भारतीय प्रागैतिहास की रुपरेख।  पलका प्रकाशन : दिल्ली। 
